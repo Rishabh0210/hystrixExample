@@ -1,2 +1,6 @@
-# hystrixExample
-It involves the producer service, which may fail anytime and the consumer service, in which hystrix takes care of everything. The dashboard feature is also enabled.
+@@ -1,2 +1,5 @@
+ # hystrixExample
+ It involves the producer service, which may fail anytime and the consumer service, in which hystrix takes care of everything. The dashboard feature is also enabled.
++
++
++Now I am integrating first-timers app.
